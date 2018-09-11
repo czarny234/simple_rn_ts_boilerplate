@@ -1,0 +1,9 @@
+{
+  "eslint.enable": false,
+  "flow.enabled": false,
+  // "typescript.implementationsCodeLens.enabled": true,
+  // "typescript.referencesCodeLens.enabled": true,
+  "prettier.printWidth": 140,
+  "prettier.semi": true
+  // "typescript.tsdk": "node_modules/typescript/lib"
+}
